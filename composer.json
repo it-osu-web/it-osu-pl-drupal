@@ -1,6 +1,7 @@
 {
   "name": "it-osu-web/it-osu-pl-drupal",
-  "description": "IT@OSU Pattern Lab",
+  "description": "IT@OSU Pattern Lab assets for Drupal 8 theming",
+  "version": "0.1.0",
   "type": "design-system",
   "require": {
     "composer/installers": "^1.6"
