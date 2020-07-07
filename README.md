@@ -4,4 +4,4 @@
 
 IT@OSU Pattern Lab assets for use in a Drupal 8/9 theme.
 
-Generated from https://github.com/it-osu-web/it-osu-pl
+Generated from https://github.com/it-osu-web/it-osu-pl.
