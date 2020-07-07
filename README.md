@@ -1,6 +1,6 @@
 # it-osu-pl-drupal
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/it-osu-web/it-osu-pl-drupal)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/it-osu-web/it-osu-pl-drupal)(https://github.com/it-osu-web/it-osu-pl-drupal)]
 
 ![Packagist Version](https://img.shields.io/packagist/v/it-osu-web/it-osu-pl-drupal?color=orange)
 
