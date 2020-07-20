@@ -10,6 +10,13 @@
 - Add bottom padding to content.
 - Update various hover and focus styles.
 
+## [1.1.1] - 2020-07-13
+- Various typography improvements.
+- Fix list spacing.
+- Fix faux button links.
+- Update basic text and header links for improved accessibility.
+- Update footer and masthead components for improved link behaviors and colors.
+
 ## [1.1.0] - 2020-07-06
 - Various small and medium changes ported back from Drupal themes including:
   - Restructure 00-base directory items.
