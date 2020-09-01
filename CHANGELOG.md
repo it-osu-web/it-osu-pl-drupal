@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.6] - 2020-09-01
+
+- Update ADA message in footer.
+
 ## [1.1.5] - 2020-07-25
 
 - Fix extlink button link styles.
