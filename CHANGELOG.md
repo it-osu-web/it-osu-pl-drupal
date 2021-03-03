@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.9] - 2021-03-02
+- Adjust padding on <a> elements.
+- Indicate that external links are external in visually-hidden text.
+- Update card, info-box, and tile patterns to improve compatibility with Drupal themes. 
+
 ## [1.1.8] - 2021-02-19
 - Add general variant of status message.
 - Make sure sure footer_text only renders if it has value.
