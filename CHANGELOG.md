@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.2.3] - 2021-03-11
+- Fixed main menu dropdowns. 
+
 ## [1.2.2] - 2021-03-08
 - Provide white option for tile.
 - Add Hero Banner Pattern.
