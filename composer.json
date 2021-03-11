@@ -3,7 +3,7 @@
   "description": "IT@OSU Pattern Lab assets for use in a Drupal 8/9 theme",
   "type": "design-system",
   "require": {
-    "composer/installers": "^1.6"
+    "composer/installers": "^1.10.0"
   },
   "license": "MIT",
   "authors": [
