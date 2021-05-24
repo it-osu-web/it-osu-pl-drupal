@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.5.1] - 2021-05-24
+- Remove tile image zoom on hover.
+- Removed unused/unfinished menu script on main menu that was negatively affecting Drupal admin menubar. 
+
 ## [1.5.0] - 2021-05-05
 - Update address block to accommodate for letters in phone numbers. NOTICE: Markup change.
 - Add aspect ratio mixin and classes.
