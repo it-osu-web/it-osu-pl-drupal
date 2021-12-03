@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.7.0] - 2021-12-02
+- Update Masthead styles.
+- Update h3 and h4 styles.
+- Remove default border from <img> tag.
+- Convert main menu to lowercase.
+- Remove default 100% width on tiles.
+- Adjust gutter value in \_settings.scss.
+- Incorporate recent footer changes from wcm_theme.
+- Remove lt-gray masthead option.
+- Update region-template.twig and page-template.twig to make `content_after` region full width.
+
 ## [1.6.3] - 2021-07-30
 - Further updates to Masthead typography. 
 
